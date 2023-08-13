@@ -1,0 +1,1 @@
+# `wc` - Print newline, word, and byte counts of each given file
