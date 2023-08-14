@@ -19,4 +19,6 @@ Every file system keeps metadata of its files
 
 Each file system has a directory entry containing file and its i-node mappings used to find the corresponding metadata in the file table.
 
-Inode (index node) is a unique value in a file system representing a file 
+Inode (index node) is a unique value in a file system representing a file
+
+mount and unmount processes

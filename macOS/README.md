@@ -4,6 +4,8 @@ macOS is a Unix-based operating system developed by Apple for their MacBook, iMa
 
 - Closed-source
 - Free
+- File systems:
+  - APFS (Apple File System)
 - Supported instruction sets:
   - ARM
   - x86-64
